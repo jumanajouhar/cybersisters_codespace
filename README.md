@@ -9,7 +9,7 @@ This Online Coding Practice Platform is designed to help users improve their cod
 - **Progress Tracking:** Track your progress over time and monitor your improvement.
 
 ## Technology Stack
-Our platform is built using a modern technology stack that ensures a seamless and efficient user experience.
+Our platform is built using the following technology stack to ensure a seamless and efficient user experience.
 
 ### Frontend
 - **React:** A popular JavaScript library for building user interfaces.
